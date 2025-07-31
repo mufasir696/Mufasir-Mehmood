@@ -20,7 +20,7 @@
 - Python IDLE
 
 ## 📫 How to reach me
-- Email: youremail@example.com
+- Email: sheikhmufasirmehmood@gmail.com
 - GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---
